@@ -1,4 +1,4 @@
-# 2025 Tech Internships Europe
+# Tech Internships Europe
 A curated list of tech internships across Europe. This resource is designed to help students find relevant opportunities in software engineering, data science, cybersecurity, and other tech fields.
 <!-- START TABLE -->
 
