@@ -1,5 +1,7 @@
 # Tech Internships Europe
 A curated list of tech internships across Europe. This resource is designed to help students find relevant opportunities in software engineering, data science, cybersecurity, and other tech fields.
+See also [internradar.eu](https://internradar.eu): tech internships and graduate roles in Europe with each company's hiring process, pay and re-apply rule, checked every night.
+
 <!-- START TABLE -->
 
 | Company | Title | Location | Link | Date Posted |
